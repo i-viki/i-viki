@@ -33,7 +33,7 @@
 </p>
 📈<b> Contribution Graph</b>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=i-viki&theme=tokyo-night&hide_border=true&area=true)](https://jayavignesh.dev)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=i-viki&theme=github-compact&hide_border=true&area=true)](https://jayavignesh.dev)
 
 <br/>
 
