@@ -9,7 +9,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=i-viki&label=Profile+Views&color=F97316&style=flat)](https://jayavignesh.dev)
-<a href="https://linkedin.com/in/i-viki" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Jayavignesh | LinkedIn" /></a><a href="mailto:hello@jayavignesh.dev"><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Jayavignesh | Email" /></a><a href="https://jayavignesh.dev" target="_blank"><img align="right" src="https://img.shields.io/badge/Portfolio-F97316?style=flat&logo=firefox&logoColor=white" alt="Jayavignesh | Portfolio" /></a>
+<a href="https://linkedin.com/in/i-viki" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Jayavignesh | LinkedIn" /></a>&thinsp;<a href="mailto:hello@jayavignesh.dev"><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Jayavignesh | Email" /></a>&thinsp;<a href="https://jayavignesh.dev" target="_blank"><img align="right" src="https://img.shields.io/badge/Portfolio-F97316?style=flat&logo=firefox&logoColor=white" alt="Jayavignesh | Portfolio" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://jayavignesh.dev/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
