@@ -31,17 +31,9 @@
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,hibernate,postgresql,mysql,redis,kafka,docker,linux,maven,git,githubactions,junit,postman,bash&theme=dark&titles=true)](https://jayavignesh.dev)
 
 </p>
-📊<b> Weekly development breakdown</b>
+📈<b> Contribution Graph</b>
 
-<!--START_SECTION:waka-->
-```txt
-Java         ██████████████████░░░░░░░   72.00 %
-SQL          ████░░░░░░░░░░░░░░░░░░░░░   14.00 %
-YAML         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-XML          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Bash         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-```
-<!--END_SECTION:waka-->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=i-viki&theme=tokyo-night&hide_border=true&area=true)](https://jayavignesh.dev)
 
 <br/>
 
