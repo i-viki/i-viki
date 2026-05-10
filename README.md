@@ -77,6 +77,15 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=i-viki&theme=github-compact&hide_border=true&area=true&hide_title=true)](https://jayavignesh.dev)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-viki/i-viki/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-viki/i-viki/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/i-viki/i-viki/output/github-snake.svg">
+  </picture>
+</div>
+
+
 <br/>
 
 <details>
@@ -101,6 +110,18 @@
       <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=i-viki&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
     </a>
   </div>
+
+  <br/>
+
+  <p align="center">
+    <img src="https://github.com/i-viki/i-viki/raw/main/assets/waka-header.png" alt="WakaTime Stats" onerror="this.style.display='none'"/>
+    <br/>
+    <b>📊 Weekly Development Breakdown</b>
+  </p>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
