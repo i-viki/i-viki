@@ -120,7 +120,50 @@
   </p>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-255.76%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 47.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 106 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   42.07 % 
+Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+Java                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+
+ Last Updated on 10/05/2026 08:17:38 UTC
+<!--END_SECTION:waka-->
 
 </details>
 
