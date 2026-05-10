@@ -114,7 +114,6 @@
   <br/>
 
   <p align="center">
-    <img src="https://github.com/i-viki/i-viki/raw/main/assets/waka-header.png" alt="WakaTime Stats" onerror="this.style.display='none'"/>
     <br/>
     <b>📊 Weekly Development Breakdown</b>
   </p>
