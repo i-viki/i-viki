@@ -119,19 +119,19 @@
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-278.71%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279.59%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 48.4 kB Used in GitHub's Storage 
+> 📦 48.5 kB Used in GitHub's Storage 
  > 
-> 🏆 134 Contributions in the Year 2026
+> 🏆 145 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -139,27 +139,27 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   42.07 % 
-Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-Java                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+JavaScript               3 hrs 31 mins       ███████████████░░░░░░░░░░   60.62 % 
+Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Java                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 10/05/2026 19:39:33 UTC
+ Last Updated on 11/05/2026 20:13:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
