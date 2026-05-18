@@ -119,13 +119,15 @@
   </p>
 
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-303.75%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%204%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-303.81%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 49.2 kB Used in GitHub's Storage 
  > 
-> 🏆 174 Contributions in the Year 2026
+> 🏆 176 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -133,6 +135,17 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.95 % 
+CSS                      4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+HTML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -146,7 +159,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 19:44:06 UTC
+ Last Updated on 18/05/2026 20:10:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
