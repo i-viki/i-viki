@@ -119,15 +119,15 @@
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-303.81%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304.14%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 49.2 kB Used in GitHub's Storage 
+> 📦 48.8 kB Used in GitHub's Storage 
  > 
-> 🏆 176 Contributions in the Year 2026
+> 🏆 178 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -139,11 +139,11 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.95 % 
-CSS                      4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-HTML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+JavaScript               7 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.95 % 
+CSS                      5 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
+Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 **I Mostly Code in Java** 
@@ -159,7 +159,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2026 20:10:49 UTC
+ Last Updated on 19/05/2026 20:11:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
