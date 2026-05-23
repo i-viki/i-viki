@@ -119,13 +119,13 @@
   </p>
 
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-306.71%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-310.85%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 49.4 kB Used in GitHub's Storage 
+> 📦 49.5 kB Used in GitHub's Storage 
  > 
-> 🏆 198 Contributions in the Year 2026
+> 🏆 208 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -133,17 +133,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               6 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.24 % 
-CSS                      5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.66 % 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-HTML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -157,7 +146,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 20:17:46 UTC
+ Last Updated on 23/05/2026 19:43:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
