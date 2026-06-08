@@ -119,7 +119,9 @@
   </p>
 
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-327.89%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2018%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-327.90%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -133,6 +135,17 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               7 hrs 31 mins       ████████████████░░░░░░░░░   65.95 % 
+CSS                      3 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -146,7 +159,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 19:53:40 UTC
+ Last Updated on 08/06/2026 20:38:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
