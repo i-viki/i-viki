@@ -119,15 +119,15 @@
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-328.99%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-329.12%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 50.0 kB Used in GitHub's Storage 
+> 📦 50.1 kB Used in GitHub's Storage 
  > 
-> 🏆 264 Contributions in the Year 2026
+> 🏆 268 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -139,7 +139,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 27 mins             ███████████████████░░░░░░   75.69 % 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+CSS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 
 **I Mostly Code in Java** 
@@ -155,7 +159,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2026 19:51:29 UTC
+ Last Updated on 28/06/2026 19:52:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
