@@ -119,7 +119,7 @@
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-335.57%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -139,11 +139,11 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 49 mins        ██████████████░░░░░░░░░░░   56.37 % 
-HTML                     47 mins             ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+JavaScript               1 hr 28 mins        ███████████████░░░░░░░░░░   61.38 % 
+Markdown                 32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+CSS                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 
 **I Mostly Code in Java** 
@@ -159,7 +159,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2026 19:49:38 UTC
+ Last Updated on 06/07/2026 20:21:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
