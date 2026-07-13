@@ -139,9 +139,8 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 mins             ████████████░░░░░░░░░░░░░   49.31 % 
-JavaScript               8 mins              █████████░░░░░░░░░░░░░░░░   35.23 % 
-Text                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Markdown                 0 secs              █████████████████████░░░░   84.68 % 
+Text                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 ```
 
 **I Mostly Code in Java** 
@@ -157,7 +156,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2026 19:37:32 UTC
+ Last Updated on 13/07/2026 19:57:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
