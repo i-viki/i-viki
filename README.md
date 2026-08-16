@@ -119,17 +119,17 @@
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-336.49%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-337.18%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 50.3 kB Used in GitHub's Storage 
+> 📦 50.4 kB Used in GitHub's Storage 
  > 
-> 🏆 282 Contributions in the Year 2026
+> 🏆 283 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -141,13 +141,33 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               38 mins             ███████████████░░░░░░░░░░   59.57 % 
+Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+CSS                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 3 mins (99.09%)
+
+✍️ 96 lines written by AI, 9 lines written by hand (91.43% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 33 AI Prompts
+
+Gemini                   95 lines            ██████████████████░░░░░░░   71.43 % 
+Sonnet                   38 lines            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 91.43% of written lines came from AI
+📝 Concise Prompter — average 64 characters per prompt
+🔁 Iterative Prompter — average 33 prompts per session
+🚀 High AI Trust — 6.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -163,7 +183,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 18:54:53 UTC
+ Last Updated on 16/08/2026 18:53:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
