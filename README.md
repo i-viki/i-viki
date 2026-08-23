@@ -141,33 +141,13 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               38 mins             ███████████████░░░░░░░░░░   59.57 % 
-Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-CSS                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (99.09%)
-
-✍️ 96 lines written by AI, 9 lines written by hand (91.43% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 33 AI Prompts
-
-Gemini                   95 lines            ██████████████████░░░░░░░   71.43 % 
-Sonnet                   38 lines            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 91.43% of written lines came from AI
-📝 Concise Prompter — average 64 characters per prompt
-🔁 Iterative Prompter — average 33 prompts per session
-🚀 High AI Trust — 6.99% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -183,7 +163,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 18:56:00 UTC
+ Last Updated on 23/08/2026 18:55:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
