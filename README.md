@@ -119,9 +119,9 @@
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-338.69%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -141,28 +141,31 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 9 mins         ███████████████████████░░   93.92 % 
-HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Markdown                 1 hr 11 mins        ████████████████████░░░░░   80.52 % 
+JavaScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (100.0%)
+⏱ AI Coding Time: 1 hr 27 mins (97.69%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 4 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 42 AI Prompts
+🧠 5 AI Sessions, 47 AI Prompts
+
+Gemini                   4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 43 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 49 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -178,7 +181,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 20:53:22 UTC
+ Last Updated on 20/09/2026 20:58:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
