@@ -119,9 +119,9 @@
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-338.69%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -141,13 +141,35 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 4 mins         ██████████░░░░░░░░░░░░░░░   41.68 % 
+Markdown                 54 mins             █████████░░░░░░░░░░░░░░░░   35.40 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 32 mins (98.58%)
+
+✍️ 11,027 lines written by AI, 1 lines written by hand (99.99% AI-written)
+
+🔤 3,105,268 Input Tokens, 346,129 Output Tokens
+
+💵 $15.22 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 62 AI Prompts
+
+Opus                     5,627 lines         █████████████░░░░░░░░░░░░   50.86 % 
+Antigravity-Ide          4,052 lines         █████████░░░░░░░░░░░░░░░░   36.63 % 
+Gemini                   1,384 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📝 Concise Prompter — average 182 characters per prompt
+🔁 Iterative Prompter — average 62 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -163,7 +185,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 21:30:38 UTC
+ Last Updated on 28/09/2026 23:25:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
