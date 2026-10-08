@@ -141,35 +141,30 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 7 mins         ████████████░░░░░░░░░░░░░   48.25 % 
-Other                    33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-CSS                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Other                    33 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 2 mins (88.02%)
+⏱ AI Coding Time: 19 mins (58.94%)
 
-✍️ 262 lines written by AI, 45 lines written by hand (85.34% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,988,099 Input Tokens, 184,799 Output Tokens
+🔤 740,143 Input Tokens, 17,411 Output Tokens
 
-💵 $12.35 Estimated AI Cost This Week
+💵 $3.17 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 60 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
-Gemini                   371 lines           █████████████████████████   100.00 % 
 Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.34% of written lines came from AI
-📝 Concise Prompter — average 64 characters per prompt
-🔁 Iterative Prompter — average 30 prompts per session
-🚀 High AI Trust — 11.24% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 53 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -185,7 +180,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:14:50 UTC
+ Last Updated on 08/10/2026 23:29:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
