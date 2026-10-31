@@ -123,17 +123,17 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2040%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-356.75%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-373.46%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 51.2 kB Used in GitHub's Storage 
+> 📦 51.4 kB Used in GitHub's Storage 
  > 
-> 🏆 315 Contributions in the Year 2026
+> 🏆 326 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -153,17 +153,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Java                     6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
 
 
- Last Updated on 30/10/2026 22:32:46 UTC
+ Last Updated on 31/10/2026 21:47:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
