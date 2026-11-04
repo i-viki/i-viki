@@ -131,7 +131,7 @@
  > 
 > 🏆 326 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Available for Senior Backend Roles
  > 
 > 📜 15 Public Repositories 
  > 
