@@ -1,18 +1,12 @@
 <a href="https://jayavignesh.dev/">
   <img
-    alt="Jaya Vignesh (Jayavignesh) - Java Backend Engineer"
+    alt="Jayavignesh"
     src="./assets/banner.png"
     width="100%"
   />
 </a>
 
 <br/>
-
-<h1 align="center">Jaya Vignesh (Jayavignesh)</h1>
-<p align="center">
-  <b>Java Backend Engineer</b> &nbsp;|&nbsp; Distributed Systems &amp; High-Throughput Architectures<br/>
-  <i>Portfolio: <a href="https://jayavignesh.dev">jayavignesh.dev</a> &nbsp;•&nbsp; LinkedIn: <a href="https://www.linkedin.com/in/jayavigneshj/">jayavigneshj</a></i>
-</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=i-viki&label=Profile+Views&color=F97316&style=flat)](https://jayavignesh.dev)
 <a href="https://www.linkedin.com/in/jayavigneshj/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Jayavignesh | LinkedIn" /></a>&thinsp;<a href="mailto:hello@jayavignesh.dev"><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Jayavignesh | Email" /></a>&thinsp;<a href="https://jayavignesh.dev" target="_blank"><img align="right" src="https://img.shields.io/badge/Portfolio-F97316?style=flat&logo=firefox&logoColor=white" alt="Jayavignesh | Portfolio" /></a>
