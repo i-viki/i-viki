@@ -21,7 +21,7 @@
 
 - 🌐 My work → [jayavignesh.dev](https://jayavignesh.dev)
 
-- 🤝 **Open to full-time senior backend roles** — [**hello@jayavignesh.dev**](mailto:hello@jayavignesh.dev)
+- 🤝 **Open to full-time backend engineering roles** — [**hello@jayavignesh.dev**](mailto:hello@jayavignesh.dev)
 
 <br/>
 
@@ -131,7 +131,7 @@
  > 
 > 🏆 326 Contributions in the Year 2026
  > 
-> 💼 Available for Senior Backend Roles
+> 💼 Available for Full-Time Backend Engineering Roles
  > 
 > 📜 15 Public Repositories 
  > 
