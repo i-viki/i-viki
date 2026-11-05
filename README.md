@@ -75,7 +75,7 @@
 
 📈<b> Contribution Graph</b>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=i-viki&theme=github-compact&hide_border=true&area=true&hide_title=true)](https://jayavignesh.dev)
+[![Activity Graph](https://github-activity-graph.luckylinux.dev/graph?username=i-viki&theme=github-compact&hide_border=true&area=true&hide_title=true)](https://jayavignesh.dev)
 
 <div align="center">
   <picture>
