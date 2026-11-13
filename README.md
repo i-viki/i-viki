@@ -32,42 +32,47 @@
   <tr>
     <td valign="top" width="50%">
 
-![Backend](https://img.shields.io/badge/Backend-21262d?style=flat-square)<br/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Backend & Concurrency](https://img.shields.io/badge/Backend_%26_Concurrency-21262d?style=flat-square)<br/>
+![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-6C3483?style=flat-square&logoColor=white)
 
-![Data & Messaging](https://img.shields.io/badge/Data_%26_Messaging-21262d?style=flat-square)<br/>
+![Data, Caching & Messaging](https://img.shields.io/badge/Data,_Caching_%26_Messaging-21262d?style=flat-square)<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
-![Frontend](https://img.shields.io/badge/Frontend-21262d?style=flat-square)<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![AI & Vector Infrastructure](https://img.shields.io/badge/AI_%26_Vector_Infrastructure-21262d?style=flat-square)<br/>
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Redis 7 HNSW](https://img.shields.io/badge/Redis_7_HNSW-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
+![PGVector](https://img.shields.io/badge/PGVector-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
     <td valign="top" width="50%">
 
-![DevOps & CI/CD](https://img.shields.io/badge/DevOps_%26_CI%2FCD-21262d?style=flat-square)<br/>
+![DevOps & Cloud](https://img.shields.io/badge/DevOps_%26_Cloud-21262d?style=flat-square)<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-![Testing](https://img.shields.io/badge/Testing-21262d?style=flat-square)<br/>
+![Observability & Telemetry](https://img.shields.io/badge/Observability_%26_Telemetry-21262d?style=flat-square)<br/>
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Micrometer](https://img.shields.io/badge/Micrometer-24543E?style=flat-square&logo=spring&logoColor=white)
+![Gatling](https://img.shields.io/badge/Gatling-FF6600?style=flat-square&logoColor=white)
+
+![Testing & Tools](https://img.shields.io/badge/Testing_%26_Tools-21262d?style=flat-square)<br/>
 ![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-![Tools](https://img.shields.io/badge/Tools-21262d?style=flat-square)<br/>
+![Testcontainers](https://img.shields.io/badge/Testcontainers-172554?style=flat-square&logo=testcontainers&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 </td>
   </tr>
