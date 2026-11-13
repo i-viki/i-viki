@@ -105,14 +105,14 @@
 
   <div align="center">
     <a href="https://jayavignesh.dev">
-      <img width="39%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=i-viki&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+      <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=i-viki&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
     </a>
     <a href="https://jayavignesh.dev">
-      <img width="59%" src="https://github-readme-stats-salesp07.vercel.app/api?username=i-viki&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&include_all_commits=true" alt="readme stats" />
+      <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=i-viki&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&include_all_commits=true" alt="readme stats" />
     </a>
-    <br/>
+    <br/><br/>
     <a href="https://jayavignesh.dev">
-      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=i-viki&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
+      <img width="97%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=i-viki&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
     </a>
   </div>
 
@@ -120,55 +120,30 @@
 
   <p align="center">
     <br/>
-    <b>📊 Weekly Development Breakdown</b>
+    <b>⚡ Coding Habits &amp; Schedule</b>
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2028%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2040%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-426.57%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 52.8 kB Used in GitHub's Storage 
- > 
-> 🏆 430 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
+**I'm a Night 🦉** 
 
 ```text
-💬 Programming Languages: 
-No Activity Tracked This Week
+🌞 Morning                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+🌆 Daytime                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+🌃 Evening                300 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+🌙 Night                  767 commits         ██████████████░░░░░░░░░░░   57.58 % 
 ```
 
-🤖 **AI Coding This Week** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-No AI Coding Activity Tracked This Week
+Monday                   707 commits         █████████████░░░░░░░░░░░░   53.08 % 
+Tuesday                  56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Wednesday                66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Thursday                 99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Friday                   53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Saturday                 156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Sunday                   195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 ```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     8 repos             ███████████░░░░░░░░░░░░░░   42.11 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-
-
- Last Updated on 13/11/2026 18:11:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
